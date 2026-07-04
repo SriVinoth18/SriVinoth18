@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sri Vinoth</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Full Stack Developer | Android Developer | AI & ML Enthusiast
+Information Technology Student | Full Stack Developer | Android Developer 
 </h3>
 
 <p align="center">
